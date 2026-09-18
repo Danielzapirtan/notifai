@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifai</string>
+    <string name="notification_channel_name">Scheduled activities</string>
+    <string name="notification_channel_description">Notifications for scheduled activities</string>
+</resources>
